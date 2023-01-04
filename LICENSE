@@ -1,6 +1,8 @@
 BSD 2-Clause License
 
-Copyright (c) 2023, Wenjing1005x
+Copyright (c) 2018, Lund University, Wenjing1005x, All rights reserved.
+
+This FME script was developed for transforming 3CIM data and the road database from Malmö Stad, Skåne, Sweden. The transformed data was used as the input data of SoundPLAN noise simulation software. Detailed clarification of this script can be found in the master thesis Noise Simulations based on 3D City Models.  The script is allowed to used in further studies about the application of 3CIM in noise simulations or other fields.
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
